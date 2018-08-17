@@ -1,0 +1,13 @@
+Kelebihan
+Interior memukau, fun to drive, mesin efisien dan kuat, pengendalian, kepraktisan
+ Kekurangan
+Eksterior biasa saja, minus navigasi satelit, harga agak tinggi
+Kondisi Pengetesan 
+Waktu : 19-May-2015 23:30
+Permukaan Jalan : Aspal
+Cuaca : Cerah
+Beban Penumpang : 68 Kg
+Bahan Bakar : 75 % 
+Tekanan Ban Depan: 34 psi
+Tekanan Ban Belakang: 34 psi
+Suhu udara : 28 °C
